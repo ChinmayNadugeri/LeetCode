@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
