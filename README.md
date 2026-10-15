@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
