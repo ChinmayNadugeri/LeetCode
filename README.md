@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0619-biggest-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
