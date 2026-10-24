@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
