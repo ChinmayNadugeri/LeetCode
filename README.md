@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
