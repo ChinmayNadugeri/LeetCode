@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ChinmayNadugeri/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ChinmayNadugeri/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChinmayNadugeri/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ChinmayNadugeri/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
